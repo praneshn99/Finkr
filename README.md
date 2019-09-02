@@ -1,5 +1,5 @@
 # <img src="img/finkr_logo.jpg" >
-<br/><br/>
+<br/>
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0)](http://badge.fury.io/gh/boennemann%2Fbadges)
