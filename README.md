@@ -6,7 +6,9 @@
 
 <img src="img/finkr_logo.jpg" >
 <br/><br/>
-## Compitition: HackMSIT 2k19
+
+
+## Competition: HackMSIT 2k19
 
 ## TEAM NAME: BigO
 
