@@ -1,11 +1,12 @@
 # hm19_BigO - Finkr
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0)](http://badge.fury.io/gh/boennemann%2Fbadges)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/adisakshya/hm19_BigO)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adisakshya/hm19_BigO)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/praneshn99/hm19_BigO)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/praneshn99/hm19_BigO)
 
-
-repo for HackMSIT 2k19
+<img src="img/finkr_logo.jpg" >
+<br/><br/>
+## Compitition: HackMSIT 2k19
 
 ## TEAM NAME: BigO
 
