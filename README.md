@@ -1,4 +1,4 @@
-# hm19_BigO - Finkr
+# Finkr
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/praneshn99/hm19_BigO)
