@@ -1,0 +1,141 @@
+.dot{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    width: 1500px; 
+    filter: blur(3px);
+}
+.dot1{
+    position: absolute;
+    top:50px;
+    left: 220px;
+    height: 250px;
+    width: 400px;
+    border-radius: 10%;
+
+}
+.dot2{
+    position: absolute;
+    top: 450px;
+    left: 800px;
+    border-radius: 10%;
+}
+.dot3{
+    position: absolute;
+    top: 900px;
+    left: 100px;
+    border-radius: 10%;
+}
+.dot4{
+    position: absolute;
+    top: 1350px;
+    left: 800px;
+    border-radius: 10%;
+}
+.dot5{
+    position: absolute;
+    top: 810;
+    left: 0px;
+    height: 950px;
+    width: 1500px;
+    filter: blur(3px);
+}
+.dot6{
+    position: absolute;
+    top: 1770;
+    left: 0px;
+    height: 530px;
+    width: 1500px;
+    filter: blur(3px);
+}
+.tt{
+    position: absolute;
+    top: 90px;
+    left: 700px;
+    font-size: 100;
+    color: black;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    padding: 5px;
+}
+.tt1{
+    position: absolute;
+    top: 220px;
+    left: 800px;
+    font-size: 35;
+    color: orange;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    padding: 5px;
+    width: 35%;
+}
+.container{
+    background: rgba(103, 115, 126, 0.308);
+    position: absolute;
+    padding: 10px;
+    width: 35%;
+    top: 400px;
+    left: 180px;
+    border-radius: 10px;
+}
+.container1{
+    position: absolute;
+    background: rgba(103, 115, 126, 0.308);
+    width: 40%;
+    padding: 10px;
+    top: 850px;
+    left: 770px;
+    border-radius: 10px;
+}
+.container2{
+    position: absolute;
+    background: rgba(103, 115, 126, 0.308);
+    padding: 10px;
+    width: 40%;
+    top: 1350px;
+    left: 100px;
+    border-radius: 10px;
+}
+.bt{
+    position: absolute;
+    top: 1650px;
+    left: 600px;
+    background-color:lightblue;
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
+}
+.cont{
+    position: absolute;
+    top: 1770px;
+    font-size: 25;
+    width: 1500px;
+
+}
+.cont1{
+    background: rgba(103, 115, 126, 0.308);
+    font-size: 40;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+}
+.cont2{
+    background: rgba(103, 115, 126, 0.308);
+    position: absolute;
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-right: 120px;
+    border-radius: 10px;
+}
+.cont3{
+    position: absolute;
+    top: 1900px;
+    left: 800px;
+    background: rgba(103, 115, 126, 0.308);
+    padding: 10px;
+    border-radius: 10px;
+}
