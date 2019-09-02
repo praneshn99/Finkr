@@ -20,12 +20,10 @@
   3. Pranesh Negi
   4. Rachnit Singh Jonty
 
-# Instruction of Use:
-
-### Step 1: 
+# Instruction of Use: 
 
 
-### Step 2:
+### Step 1:
 
 In the master folder run
 ```
@@ -33,7 +31,7 @@ node server.js
 ```
 This will activate the server on an available port
 
-### Step 3:
+### Step 2:
 
 Open browser window and in URL bar type
 ```
@@ -41,12 +39,12 @@ localhost:(port_number)
 ```
 and with this you are now on Home Page of Finkr application.
 
-### Step 4: (Using Finkr Form)
+### Step 3: (Using Finkr Form)
 
 Enter your current investment details in the first 4 fields to let Finkr know about your current investment plans.
 Enter your expected returns details in next 5 fields to let Finkr compute best possible suggestions for investments options for you.
 
-### Step 5: (Output)
+### Step 4: (Output)
 
 Finkr now will present the output in the console featuring all possible investment options for the user.
 
