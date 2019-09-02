@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>
+            FINKER | FORM
+        </title>
+        <link rel='stylesheet' href="./css/form.css">
+        <script src="https://code.jquery.com/jquery-1.11.1.js"></script> 
+        <script src="js/socket.io.js"></script>
+        <script src="js/form.js"></script>
+    </head>
+    <body style="background-color:#030100">
+        <img src="./img/bg_image_4.jpg" class="pic">
+            <div style="color:black" class="ff"><h1>Please fill up this form</h1>
+                <form id="asset_form">
+                        Initial NAV:<br><input type='text' name='ini_nav' size="30"><br><br>
+                        Current NAV:<br><input type='text' name='curr_nav' size="30"><br><br>
+                        Rate of return (annual):<br><input type='text' name='curr_return' size="30"><br><br>
+                        Period of investment: (days)<br><input type='text' name='period' size="30"><br><br>                        
+                        
+                        Current NAV:<br><input type='text' name='start_nav'size="25"><br><br>
+                        Expected NAV:<br><input type='text' name='exp_nav'size="15"><br><br>
+                        Type of investment:<br><input type="text" name="type" value="SIP" checked><br><br>
+                        Expected Interest Rate:<br><input type='text' name='exp_ini' size="15"><br><br>
+                        Time Period:(years) <br><input type="text" name="quantity"><br><br>
+                        <br>
+                        <button type="submit" id="submitButton">SUBMIT</button>
+                        <button type="reset" id="resetButton">RESET</button>
+                </form>
+             </div>
+             <a href="./index.html">
+                <img src="./img/finkr_logo.jpg" class="dot">
+            </a>
+
+            <div id="report">
+                
+            </div>
+    </body>
+</html>
