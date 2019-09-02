@@ -19,7 +19,7 @@ repo for HackMSIT 2k19
 # Instruction of Use:
 
 ### Step 1: 
-Download the repository using github or git eg.git clone https://github.com/adisakshya/hm19_BigO
+
 
 ### Step 2:
 
