@@ -1,4 +1,4 @@
-# <img src="img/finkr_logo_2.jpg" >
+# <img src="img/finkr_logo_2.png" >
 <br/>
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
